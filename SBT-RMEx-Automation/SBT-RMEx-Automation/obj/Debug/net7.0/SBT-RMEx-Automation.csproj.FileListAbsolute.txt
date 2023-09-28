@@ -1,0 +1,14 @@
+C:\Users\Janidu Lankage\Documents\GitHub\SBT-RMEx\SBT-RMEx-Automation\SBT-RMEx-Automation\bin\Debug\net7.0\SBT-RMEx-Automation.exe
+C:\Users\Janidu Lankage\Documents\GitHub\SBT-RMEx\SBT-RMEx-Automation\SBT-RMEx-Automation\bin\Debug\net7.0\SBT-RMEx-Automation.deps.json
+C:\Users\Janidu Lankage\Documents\GitHub\SBT-RMEx\SBT-RMEx-Automation\SBT-RMEx-Automation\bin\Debug\net7.0\SBT-RMEx-Automation.runtimeconfig.json
+C:\Users\Janidu Lankage\Documents\GitHub\SBT-RMEx\SBT-RMEx-Automation\SBT-RMEx-Automation\bin\Debug\net7.0\SBT-RMEx-Automation.dll
+C:\Users\Janidu Lankage\Documents\GitHub\SBT-RMEx\SBT-RMEx-Automation\SBT-RMEx-Automation\bin\Debug\net7.0\SBT-RMEx-Automation.pdb
+C:\Users\Janidu Lankage\Documents\GitHub\SBT-RMEx\SBT-RMEx-Automation\SBT-RMEx-Automation\obj\Debug\net7.0\SBT-RMEx-Automation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janidu Lankage\Documents\GitHub\SBT-RMEx\SBT-RMEx-Automation\SBT-RMEx-Automation\obj\Debug\net7.0\SBT-RMEx-Automation.AssemblyInfoInputs.cache
+C:\Users\Janidu Lankage\Documents\GitHub\SBT-RMEx\SBT-RMEx-Automation\SBT-RMEx-Automation\obj\Debug\net7.0\SBT-RMEx-Automation.AssemblyInfo.cs
+C:\Users\Janidu Lankage\Documents\GitHub\SBT-RMEx\SBT-RMEx-Automation\SBT-RMEx-Automation\obj\Debug\net7.0\SBT-RMEx-Automation.csproj.CoreCompileInputs.cache
+C:\Users\Janidu Lankage\Documents\GitHub\SBT-RMEx\SBT-RMEx-Automation\SBT-RMEx-Automation\obj\Debug\net7.0\SBT-RMEx-Automation.dll
+C:\Users\Janidu Lankage\Documents\GitHub\SBT-RMEx\SBT-RMEx-Automation\SBT-RMEx-Automation\obj\Debug\net7.0\refint\SBT-RMEx-Automation.dll
+C:\Users\Janidu Lankage\Documents\GitHub\SBT-RMEx\SBT-RMEx-Automation\SBT-RMEx-Automation\obj\Debug\net7.0\SBT-RMEx-Automation.pdb
+C:\Users\Janidu Lankage\Documents\GitHub\SBT-RMEx\SBT-RMEx-Automation\SBT-RMEx-Automation\obj\Debug\net7.0\SBT-RMEx-Automation.genruntimeconfig.cache
+C:\Users\Janidu Lankage\Documents\GitHub\SBT-RMEx\SBT-RMEx-Automation\SBT-RMEx-Automation\obj\Debug\net7.0\ref\SBT-RMEx-Automation.dll

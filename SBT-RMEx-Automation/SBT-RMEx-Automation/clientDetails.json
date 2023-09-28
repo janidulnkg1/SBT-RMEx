@@ -1,0 +1,26 @@
+[
+  {
+    "ClientName": "HPS",
+    "IpAddress": "192.168.170.155",
+    "Username": "tester",
+    "Password": "password",
+    "SourceDirectory": "/path/to/source",
+    "DestinationDirectory": "/path/to/destination"
+  },
+  {
+    "ClientName": "CAP",
+    "IpAddress": "192.168.170.155",
+    "Username": "tester",
+    "Password": "password",
+    "SourceDirectory": "/path/to/source",
+    "DestinationDirectory": "/path/to/destination"
+  },
+  {
+    "ClientName": "Cbctn",
+    "IpAddress": "192.168.170.155",
+    "Username": "tester",
+    "Password": "password",
+    "SourceDirectory": "/path/to/source",
+    "DestinationDirectory": "/path/to/destination"
+  }
+]

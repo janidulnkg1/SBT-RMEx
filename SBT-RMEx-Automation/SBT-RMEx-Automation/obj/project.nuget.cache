@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "YpkXC2yhnLyJ/qqSpJjsKoEDL8l2eGjlbPODQHjV+iOXfp8WAIige2BC/EJk0MtfdyaupQKeyx+toZnvccbBMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Janidu Lankage\\Documents\\GitHub\\SBT-RMEx\\SBT-RMEx-Automation\\SBT-RMEx-Automation\\SBT-RMEx-Automation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Janidu Lankage\\.nuget\\packages\\core.renci.sshnet\\2021.10.2\\core.renci.sshnet.2021.10.2.nupkg.sha512",
+    "C:\\Users\\Janidu Lankage\\.nuget\\packages\\rebex.common\\7.0.8657\\rebex.common.7.0.8657.nupkg.sha512",
+    "C:\\Users\\Janidu Lankage\\.nuget\\packages\\rebex.networking\\7.0.8657\\rebex.networking.7.0.8657.nupkg.sha512",
+    "C:\\Users\\Janidu Lankage\\.nuget\\packages\\rebex.sftp\\7.0.8657\\rebex.sftp.7.0.8657.nupkg.sha512",
+    "C:\\Users\\Janidu Lankage\\.nuget\\packages\\ssh.net\\2020.0.2\\ssh.net.2020.0.2.nupkg.sha512",
+    "C:\\Users\\Janidu Lankage\\.nuget\\packages\\ssh.net.fork\\2022.5.13\\ssh.net.fork.2022.5.13.nupkg.sha512",
+    "C:\\Users\\Janidu Lankage\\.nuget\\packages\\sshnet.security.cryptography\\1.3.0\\sshnet.security.cryptography.1.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
