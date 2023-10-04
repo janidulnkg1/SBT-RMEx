@@ -25,7 +25,7 @@ namespace CsvFileTransferApp
 
                 foreach (var clientInfo in clients)
                 {
-                    // Use the ClientBuilder to create a Client object
+                    // Using ClientBuilder to create a Client object
                     IClientBuilder clientBuilder = new ClientBuilder()
                         .WithIpAddress(clientInfo.IpAddress)
                         .WithUsername(clientInfo.Username)

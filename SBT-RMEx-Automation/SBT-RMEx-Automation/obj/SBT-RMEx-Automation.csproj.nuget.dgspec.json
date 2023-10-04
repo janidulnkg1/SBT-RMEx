@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://192.169.0.212/qtxnuget/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
