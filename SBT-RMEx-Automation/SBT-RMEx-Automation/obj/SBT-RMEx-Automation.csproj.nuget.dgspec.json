@@ -22,8 +22,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://192.169.0.212/qtxnuget/nuget": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Users\\Janidu Lankage\\Documents\\GitHub\\my-nuget-packages\\CCAuthLib": {},
+          "http://192.169.0.212/qtxnuget/nuget": {}
         },
         "frameworks": {
           "net7.0": {
